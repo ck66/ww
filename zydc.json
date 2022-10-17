@@ -1,0 +1,20 @@
+{
+    "urls": [
+        {
+            "url": "clan://localhost/TVBox/自用家庭.json",
+            "name": "🚙自用家庭"
+        },
+        {
+            "url": "clan://localhost/TVBox/自用哔哩.json",
+            "name": "⭐自用哔哩"
+        },
+        {
+            "url": "clan://localhost/TVBox/自用阿里.json",
+            "name": "🐭自用阿里"
+        },
+        {
+            "url": "clan://localhost/TVBox/TV影视.json",
+            "name": "🚙TV影视"
+        }
+    ]
+}
