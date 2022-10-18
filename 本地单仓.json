@@ -1,16 +1,20 @@
 {
     "urls": [
         {
-            "url": "clan://localhost/TVBox/自用家庭.json",
-            "name": "🚙自用家庭"
+            "url": "clan://localhost/TVBox/多多家庭.json",
+            "name": "⭐多多家庭"
         },
         {
-            "url": "clan://localhost/TVBox/自用哔哩.json",
-            "name": "⭐自用哔哩"
+            "url": "clan://localhost/TVBox/云星家庭.json",
+            "name": "🚙云星家庭"
         },
         {
-            "url": "clan://localhost/TVBox/自用阿里.json",
-            "name": "🐭自用阿里"
+            "url": "clan://localhost/TVBox/云星哔哩.json",
+            "name": "⭐云星哔哩"
+        },
+        {
+            "url": "clan://localhost/TVBox/云星阿里.json",
+            "name": "🐭云星阿里"
         },
         {
             "url": "clan://localhost/TVBox/TV影视.json",
